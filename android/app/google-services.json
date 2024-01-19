@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796310582085",
+    "project_id": "flutter-r5-app",
+    "storage_bucket": "flutter-r5-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796310582085:android:30eea65a384439e53bc42c",
+        "android_client_info": {
+          "package_name": "com.amaragua.r5_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl5AMmaAF3jsb-Rg6ng5nsBx-dIe99uZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796310582085:android:d0ff374709362abd3bc42c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_r5_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl5AMmaAF3jsb-Rg6ng5nsBx-dIe99uZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
